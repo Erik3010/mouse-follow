@@ -1,6 +1,6 @@
 # Smooth Mouse Follow Ball
 
-![Preview]()
+![Preview](https://github.com/Erik3010/mouse-follow/blob/master/preview.gif)
 
 I'm creating this using HTML Canvas
 
